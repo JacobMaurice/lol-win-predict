@@ -30,6 +30,8 @@ More information on how the data was collected can be found in the following sec
 3. Get match information
 4. Extract desired user stats for every match using their PUUID
 
+The data used in LoL_Win_Predict_Static is available as used in my code (parquet.gzip) as well as a csv for quick-viewing in GitHub.
+
 ## Required Libraries
 - pyarrow
 - pandas
