@@ -29,3 +29,13 @@ More information on how the data was collected can be found in the following sec
 2. Get user match history (past 50 games)
 3. Get match information
 4. Extract desired user stats for every match using their PUUID
+
+## Required Libraries
+- pyarrow
+- pandas
+- seaborn
+- matplotlib
+- numpy
+- sklearn
+- scipy
+- dtale (used but optional - easier DataFrame viewing in Jupyter Notebook)
