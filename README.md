@@ -1,6 +1,6 @@
 # Purpose of This Project
 ## Background
-This is my first coding project and its purpose is simply to practice some of the concepts I have learned on Codecademy. My academic background is a BASc in Nanotechnology Engineering, where the limited amount of programming done was computational. I learned near the end of my degree that I enjoyed computer science and specifically wanted to spend some time learning the basics/fundamentals of data science and machine learning.
+This is my first coding project (still ongoing) and its purpose is simply to practice some of the concepts I have learned on Codecademy. My academic background is a BASc in Nanotechnology Engineering, where the limited amount of programming done was computational. I learned near the end of my degree that I enjoyed computer science and specifically wanted to spend some time learning the basics/fundamentals of data science and machine learning.
 
 ## League of Legends
 To keep me motivated and interested, I decided to work with real-world data that I personally have an interest in.
